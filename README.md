@@ -1,0 +1,1 @@
+# AI‑Slop PR Gatekeeper (GitHub Action + CLI for PR triage)
